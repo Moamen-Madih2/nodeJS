@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "src/app.js",
+  "main": "src/apps.js",
   "scripts": {
     "test": "bash src/test.sh"
   },
