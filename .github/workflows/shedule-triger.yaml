@@ -1,0 +1,11 @@
+on:
+  schedule:
+    - cron: "10 0 0 0 0"
+
+jobs:
+  dail-task:
+    runs-on: ubuntu-latest
+    steps:
+      - name: print message
+        run: echo "Running the scedueled task"
+
