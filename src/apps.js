@@ -1,4 +1,4 @@
-funcion greet(name){
-	return ` Hello, ${name} `
+funcion greet(name) {
+	return `Hello, ${name}`;
 
 }
